@@ -14,7 +14,6 @@ import mensagem.TipoMensagem;
 import util.ObjetoUtil;
 
 public abstract class ServicoAbstrato {
-//teste
 
     protected static Connection obterConnection() throws SystemException {// Analizar 
         try {
