@@ -7,7 +7,7 @@ import excecoes.SystemException;
 import java.util.List;
 
 public interface AgendaDAO {
-
+	//teste
     public void inserir(Agenda age) throws SystemException, DuplicadoException;
 
     public void alterar(Agenda age) throws SystemException, DuplicadoException;
