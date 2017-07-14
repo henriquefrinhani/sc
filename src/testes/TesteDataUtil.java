@@ -11,7 +11,9 @@ import util.DataUtil;
 public class TesteDataUtil {
 
     public static void main(String[] args) throws NegocioException {
-        /* Date data = new Date();
+       //usar a nova api de data
+    	
+    	/* Date data = new Date();
     
          data.getTime();
           

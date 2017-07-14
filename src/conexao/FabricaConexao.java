@@ -1,7 +1,8 @@
-package conexao;
+		package conexao;
+
+import java.sql.Connection;
 
 import config.Config;
-import java.sql.Connection;
 
 public final class FabricaConexao {
 
